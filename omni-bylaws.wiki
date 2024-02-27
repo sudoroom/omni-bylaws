@@ -39,6 +39,7 @@ It shall be the duty of the directors to:
 :(g) At each annual meeting of the Board, one (1) director shall be designated pursuant to Corporations Code Section 5220 by Sketchboard, a California public benefit corporation.
 :(h) At each annual meeting of the Board, one (1) director shall be designated pursuant to Corporations Code Section 5220 by Media Lab, a Committee established by a resolution of the Board of the Corporation.
 :(i) This Section may be amended as provided in these bylaws at such time as the Board of Directors resolves to add additional directors and designators or at such time as the Board of Directors resolves to remove directors and designators. All of the designators listed in this Article 3, Section 4 shall be known collectively as the “Designators”.
+:(j) A director who misses two consecutive meetings of the board of directors shall be considered Inactive. Inactive directors do not count towards quorum for meetings and cannot vote during a meeting of the board of directors. A director can return to Active status by attending two consecutive meetings of the board of directors.
 
 ==SECTION 5. COMPENSATION==
 Directors shall serve without compensation except that they shall be allowed and paid reasonable travel expenses to attend the annual Board meeting at the discretion of the Board. In addition, they shall be allowed reasonable advancement or reimbursement of expenses incurred in the performance of their regular duties as specified in Section 3 of this Article. Directors may not be compensated for rendering services to the corporation in any capacity other than director unless such other compensation is reasonable and is allowable under the provisions of Section 6 of this Article.
@@ -71,15 +72,20 @@ Notice of meetings not herein dispensed with shall specify the place, day and ho
 The transactions of any meeting of the board, however called and noticed or wherever held, are as valid as though the meeting had been duly held after proper call and notice, provided a quorum, as hereinafter defined, is present and provided that either before or after the meeting each director not present signs a waiver of notice, a consent to holding the meeting, or an approval of the minutes thereof. All such waivers, consents, or approvals shall be filed with the corporate records or made a part of the minutes of the meeting.
 
 ==SECTION 13. QUORUM FOR MEETINGS==
-A quorum shall consist of two-thirds (2/3) of the total number of Directors serving on the Board as of the date of the meeting in question.
+A quorum shall consist of two-thirds (2/3) of the total number of Active Directors serving on the Board as of the date of the meeting in question.
 
 The directors present at a duly called and held meeting at which a quorum is initially present may continue to do business notwithstanding the loss of a quorum at the meeting due to a withdrawal of directors from the meeting, provided that any action thereafter taken must be approved by at least a majority of the required quorum for such meeting or such greater percentage as may be required by law, or the Articles of Incorporation or Bylaws of this corporation.
 
 ==SECTION 14. MAJORITY ACTION AS BOARD ACTION==
-Every act or decision made done or made by a majority of the directors present at a meeting duly held at which a quorum is present is the act of the Board of Directors, unless the Articles of Incorporation or Bylaws of this corporation, or provisions of the California Nonprofit Public Benefit Corporation Law require a different percentage or different voting rules for approval of a matter by the board.
+Every act or decision made done or made by a more than majority of the Active directors present and voting at a meeting duly held at which a quorum is present is the act of the Board of Directors, unless the Articles of Incorporation or Bylaws of this corporation, or provisions of the California Nonprofit Public Benefit Corporation Law require a different percentage or different voting rules for approval of a matter by the board. If there are multiple mutually exclusive options to be voted on, voting will be by runoff vote, provided that the winning option still has the support of the majority of the directors voting.
 
 ==SECTION 15. CONDUCT OF MEETINGS==
-Meetings of the Board of Directors shall be presided over by a Chairperson chosen by a majority of the directors present at the meeting or, if no such person has been so designated, the President of the corporation. The Secretary of the corporation shall act as secretary of all meetings of the board, provided that, the Board may appoint another person to carry out the duties of the Secretary at any particular Meeting.
+:(a) Meetings of the Board of Directors shall be presided over by a Chairperson chosen by a majority of the directors present at the meeting or, if no such person has been so designated, the President of the corporation. The Secretary of the corporation shall act as secretary of all meetings of the board, provided that, the Board may appoint another person to carry out the duties of the Secretary at any particular Meeting.
+:(b) Any board meeting may be held by conference telephone, video screen communication, or other communications equipment. Participation in a meeting under this Section shall constitute presence in person at the meeting if both the following apply:
+::(1) Each director participating in the meeting can communicate concurrently with all other directors.
+::(2) Each director is provided the means of participating in all matters before the board, including the capacity to propose, or to interpose an objection to, a specific action to be taken by the corporation.
+:(c) At the first meeting at which a specific topic is brought up to vote, any Director may table the vote for one week.
+:(d) The President, Executive Director, or Chairperson of the Board can call for a vote on any topic at a meeting of the board of directors, or schedule such vote to be held at the next such meeting. 
 
 ==SECTION 16. ACTION BY UNANIMOUS WRITTEN CONSENT WITHOUT MEETING==
 Any action required or permitted to be taken by the Board of Directors under any provision of law may be taken without a meeting, if all members of the board shall individually or collectively consent in writing to such action. For the purposes of this Section only, "all members of the board" shall not include any "interested director" as defined in the California Nonprofit Public Benefit Corporation Law. Such written consent or consents shall be filed with the minutes of the proceedings of the board. Such action by written consent shall have the same force and effect as the unanimous vote of the directors. Any certificate or other document filed under any provision of law which relates to action so taken shall state that the action was taken by unanimous written consent of the Board of Directors without a meeting and that the Bylaws of this corporation authorize the directors to so act, and such statement shall be prima facie evidence of such authority.
@@ -232,7 +238,7 @@ The annual report shall be accompanied by any report thereon of independent acco
 =ARTICLE 10. AMENDMENT OF ARTICLES OR BYLAWS=
 
 ==SECTION 1. AMENDMENT== 
-Subject to any provision of law applicable to the amendment of Bylaws of public benefit nonprofit corporations, the Articles of Incorporation of the Corporation or these Bylaws, or any of them, may be altered, amended, or repealed and new Articles and/or Bylaws adopted by a vote of one less than the total number of members of the Board of Directors attending a meeting at which quorum is present.
+Subject to any provision of law applicable to the amendment of Bylaws of public benefit nonprofit corporations, the Articles of Incorporation of the Corporation or these Bylaws, or any of them, may be altered, amended, or repealed and new Articles and/or Bylaws adopted by a vote of one less than the total number of members of the Board of Directors attending a meeting at which quorum is present. Designators and their directors listed in Article 3 Section 4 may be removed by more than a majority of the Active directors present and voting at a meeting at which a quorum is present, provided such Designator had been added within the past 60 days.
 
 =ARTICLE 11. RESTRICTIONS ON CORPORATE ASSETS=
 
@@ -248,10 +254,3 @@ Subject to any guidelines and procedures that the Board of Directors may adopt f
 
 ==SECTION 1.  NO MEMBERS==
 The Corporation shall not have voting members within the meaning of the California Nonprofit Corporation Law.
-
-=CERTIFICATE=
-This is to certify that the foregoing is a true and correct copy of the Bylaws of the corporation named in the title thereto and that such Bylaws were duly adopted by the Board of Directors of said corporation on the date set forth below. 3ළ
-
-Dated: 25 February, 2021
-_______________________________
-Jane Welford, Secretary, Omni Commons
